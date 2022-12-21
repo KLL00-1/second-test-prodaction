@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9c91a64.css",
+    "main.js": "/static/js/main.d5a0477d.js",
+    "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
+    "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
+    "static/media/team-fone.png": "/static/media/team-fone.96b95d19199963e7f36c.png",
+    "static/media/Header-fone-small.png": "/static/media/Header-fone-small.8126956afb278d53869e.png",
+    "static/media/Group-cats.png": "/static/media/Group-cats.c2b8cee234b818e9f32d.png",
+    "static/media/Picture.png": "/static/media/Picture.857854720bab90d3246d.png",
+    "static/media/Ipad.png": "/static/media/Ipad.51e124aef152eda6f24d.png",
+    "static/media/image 269.png": "/static/media/image 269.d556618eb9976c18488e.png",
+    "static/media/Group-dogs.png": "/static/media/Group-dogs.98d9185fd9f6f7cb4328.png",
+    "static/media/Iphone.png": "/static/media/Iphone.c028e82c19bc8a83b125.png",
+    "static/media/Cat.png": "/static/media/Cat.8f7b91833f09fbbfb893.png",
+    "static/media/IphoneFull.png": "/static/media/IphoneFull.c73a11b358e1f7c04a9a.png",
+    "static/media/AvaMax.png": "/static/media/AvaMax.56a4fb5892e4e0ee8f36.png",
+    "static/media/Ball-large.png": "/static/media/Ball-large.1b59a6dec97d5a4cb168.png",
+    "static/media/Road-map-graphic.png": "/static/media/Road-map-graphic.1d9bce0dbc500c2d49a1.png",
+    "static/media/Group-icons.png": "/static/media/Group-icons.dae8df964c4a69978719.png",
+    "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
+    "index.html": "/index.html",
+    "main.f9c91a64.css.map": "/static/css/main.f9c91a64.css.map",
+    "main.d5a0477d.js.map": "/static/js/main.d5a0477d.js.map",
+    "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c91a64.css",
+    "static/js/main.d5a0477d.js"
+  ]
+}
