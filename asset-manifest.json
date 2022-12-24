@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c79272d.css",
-    "main.js": "/static/js/main.11d44e7e.js",
+    "main.css": "/static/css/main.b2558fa5.css",
+    "main.js": "/static/js/main.b14132fe.js",
     "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
     "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
     "static/media/team-fone.png": "/static/media/team-fone.96b95d19199963e7f36c.png",
@@ -20,12 +20,12 @@
     "static/media/Group-icons.png": "/static/media/Group-icons.dae8df964c4a69978719.png",
     "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
     "index.html": "/index.html",
-    "main.4c79272d.css.map": "/static/css/main.4c79272d.css.map",
-    "main.11d44e7e.js.map": "/static/js/main.11d44e7e.js.map",
+    "main.b2558fa5.css.map": "/static/css/main.b2558fa5.css.map",
+    "main.b14132fe.js.map": "/static/js/main.b14132fe.js.map",
     "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c79272d.css",
-    "static/js/main.11d44e7e.js"
+    "static/css/main.b2558fa5.css",
+    "static/js/main.b14132fe.js"
   ]
 }
