@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.14ec71d5.css",
-    "main.js": "/static/js/main.cdb391ac.js",
+    "main.js": "/static/js/main.4996905f.js",
     "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
     "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
     "static/media/team-fone.png": "/static/media/team-fone.96b95d19199963e7f36c.png",
@@ -24,11 +24,11 @@
     "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
     "index.html": "/index.html",
     "main.14ec71d5.css.map": "/static/css/main.14ec71d5.css.map",
-    "main.cdb391ac.js.map": "/static/js/main.cdb391ac.js.map",
+    "main.4996905f.js.map": "/static/js/main.4996905f.js.map",
     "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ec71d5.css",
-    "static/js/main.cdb391ac.js"
+    "static/js/main.4996905f.js"
   ]
 }
