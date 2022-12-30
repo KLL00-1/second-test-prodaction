@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0347ffa.css",
-    "main.js": "/static/js/main.309f7fd3.js",
+    "main.css": "/static/css/main.2d9281e7.css",
+    "main.js": "/static/js/main.61777d49.js",
     "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
     "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
     "static/media/team-fone.png": "/static/media/team-fone.96b95d19199963e7f36c.png",
@@ -24,13 +24,14 @@
     "static/media/Road-map-graphic.png": "/static/media/Road-map-graphic.1d9bce0dbc500c2d49a1.png",
     "static/media/Group-icons.png": "/static/media/Group-icons.dae8df964c4a69978719.png",
     "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
+    "static/media/btn Get a free NFT-hover.png": "/static/media/btn Get a free NFT-hover.2c277b2021b4fab06341.png",
     "index.html": "/index.html",
-    "main.e0347ffa.css.map": "/static/css/main.e0347ffa.css.map",
-    "main.309f7fd3.js.map": "/static/js/main.309f7fd3.js.map",
+    "main.2d9281e7.css.map": "/static/css/main.2d9281e7.css.map",
+    "main.61777d49.js.map": "/static/js/main.61777d49.js.map",
     "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0347ffa.css",
-    "static/js/main.309f7fd3.js"
+    "static/css/main.2d9281e7.css",
+    "static/js/main.61777d49.js"
   ]
 }
