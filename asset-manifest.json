@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.819c81ba.css",
+    "main.css": "/static/css/main.bd9c26da.css",
     "main.js": "/static/js/main.c1fb1ec9.js",
     "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
     "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
@@ -25,12 +25,12 @@
     "static/media/Group-icons.png": "/static/media/Group-icons.dae8df964c4a69978719.png",
     "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
     "index.html": "/index.html",
-    "main.819c81ba.css.map": "/static/css/main.819c81ba.css.map",
+    "main.bd9c26da.css.map": "/static/css/main.bd9c26da.css.map",
     "main.c1fb1ec9.js.map": "/static/js/main.c1fb1ec9.js.map",
     "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.819c81ba.css",
+    "static/css/main.bd9c26da.css",
     "static/js/main.c1fb1ec9.js"
   ]
 }
