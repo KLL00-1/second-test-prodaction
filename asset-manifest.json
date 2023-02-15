@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.be5c260d.css",
-    "main.js": "/static/js/main.c447a947.js",
+    "main.css": "/static/css/main.537ef99a.css",
+    "main.js": "/static/js/main.45906edb.js",
     "static/js/787.abed5c55.chunk.js": "/static/js/787.abed5c55.chunk.js",
     "static/media/Header-fone.png": "/static/media/Header-fone.a23dbf6b85c4ace08f4c.png",
     "static/media/team-fone.png": "/static/media/team-fone.96b95d19199963e7f36c.png",
@@ -12,26 +12,30 @@
     "static/media/image 269.png": "/static/media/image 269.d556618eb9976c18488e.png",
     "static/media/Group-dogs.png": "/static/media/Group-dogs.98d9185fd9f6f7cb4328.png",
     "static/media/Iphone.png": "/static/media/Iphone.c028e82c19bc8a83b125.png",
-    "static/media/avatar.png": "/static/media/avatar.52cec21c82e726076b18.png",
-    "static/media/AvaLev.png": "/static/media/AvaLev.38139f8ce68f1a146694.png",
+    "static/media/AvaLev.png": "/static/media/AvaLev.4e635093407563ca32e1.png",
+    "static/media/backgroundFoneLev.png": "/static/media/backgroundFoneLev.6b2d0a4ca32fd5cc57ff.png",
+    "static/media/backgroundFoneLiza.png": "/static/media/backgroundFoneLiza.deff34896afb0738515c.png",
     "static/media/catUncommon.png": "/static/media/catUncommon.960c79f5ae20dc91e048.png",
+    "static/media/avaStefan.png": "/static/media/avaStefan.863cae5b1e9096585f4b.png",
+    "static/media/backgroundFoneMax.png": "/static/media/backgroundFoneMax.9bc189bbaeab33145d5f.png",
     "static/media/catEpic.png": "/static/media/catEpic.09ba9b9a74adab27f148.png",
+    "static/media/AvaMax.png": "/static/media/AvaMax.49b41edeeb7260ba633b.png",
     "static/media/CatCommon.png": "/static/media/CatCommon.8f7b91833f09fbbfb893.png",
     "static/media/IphoneFull.png": "/static/media/IphoneFull.c73a11b358e1f7c04a9a.png",
     "static/media/dogCommon.png": "/static/media/dogCommon.5c2e8371924dd75bc724.png",
-    "static/media/AvaMax.png": "/static/media/AvaMax.56a4fb5892e4e0ee8f36.png",
+    "static/media/avaLiza.png": "/static/media/avaLiza.cc7ce0357f0335a24d91.png",
     "static/media/Ball-large.png": "/static/media/Ball-large.1b59a6dec97d5a4cb168.png",
     "static/media/Road-map-graphic.png": "/static/media/Road-map-graphic.1d9bce0dbc500c2d49a1.png",
     "static/media/Group-icons.png": "/static/media/Group-icons.dae8df964c4a69978719.png",
     "static/media/Road-map-mini.png": "/static/media/Road-map-mini.c55c2753273743730006.png",
     "static/media/btn Get a free NFT-hover.png": "/static/media/btn Get a free NFT-hover.f7e036dd82e91e96ca70.png",
     "index.html": "/index.html",
-    "main.be5c260d.css.map": "/static/css/main.be5c260d.css.map",
-    "main.c447a947.js.map": "/static/js/main.c447a947.js.map",
+    "main.537ef99a.css.map": "/static/css/main.537ef99a.css.map",
+    "main.45906edb.js.map": "/static/js/main.45906edb.js.map",
     "787.abed5c55.chunk.js.map": "/static/js/787.abed5c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5c260d.css",
-    "static/js/main.c447a947.js"
+    "static/css/main.537ef99a.css",
+    "static/js/main.45906edb.js"
   ]
 }
